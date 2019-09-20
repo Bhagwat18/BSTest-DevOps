@@ -1,0 +1,2 @@
+# BSTest-DevOps
+Practice purpose
